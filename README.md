@@ -1,12 +1,11 @@
 # sobre mim 
 
-## editando perfil
+## *editando o perfil*
 
 ###### teste
+- **ola, eu sou @kessinpc12**
 
-- ola, eu sou @kessinpc12
-
-- 👍 o meu email e kessin.lima43@gmail.com
+- 👍 o meu e [email](kessin.lima43@gmail.com)
 
 - 👍 eu estou interessado em aprender linguagens de progamacao
 
